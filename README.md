@@ -1,85 +1,94 @@
-<!-- Animated Banner -->
+# 🌌 Premium GitHub Profile README
+
+````md
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:06b6d4,100:7c3aed&text=Junaid%20Ali&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:06b6d4,100:7c3aed&text=Junaid%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Junaid Ali</h1>
-
-<h3 align="center">
-Full-Stack Software Developer • JavaScript Ecosystem • React • Next.js • Node.js
-</h3>
+<h1 align="center">Hi 👋, I'm Junaid Ali</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+Full-Stack Software Developer • React • Next.js • TypeScript • Node.js
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+JavaScript+Developer;Open+Source+Enthusiast;AI+%26+Developer+Tools;Always+Learning+Something+New"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Independent Full-Stack Developer from Karachi, Pakistan 🇵🇰
+```ts
+const junaid = {
+  location: "Karachi, Pakistan 🇵🇰",
+  role: "Full-Stack Software Developer",
 
-I specialize in building modern web applications using the JavaScript ecosystem.
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
 
-I enjoy creating:
+  backend: [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "MongoDB",
+    "Prisma"
+  ],
 
-- ⚡ Fast web apps
-- 🎨 Beautiful UI/UX
-- 🌐 REST APIs
-- 📊 Analytics dashboards
-- 🤖 AI-powered tools
-- 🎮 Interactive websites
-- 📄 SaaS products
+  currentlyLearning: [
+    "AI Agents",
+    "Three.js",
+    "System Design",
+    "Cloud Infrastructure"
+  ],
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm"/>
-
-</p>
+  hobbies: [
+    "Building SaaS",
+    "Open Source",
+    "UI Design",
+    "Performance Optimization"
+  ]
+}
+````
 
 ---
 
-# 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=junaidaliruk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidaliruk&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidaliruk&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,mongodb,postgres,prisma,git,github,vercel,vscode,figma,docker"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://YOUR-STATS.vercel.app/api?username=junaidaliruk&theme=tokyonight&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=junaidaliruk&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://YOUR-STATS.vercel.app/api/top-langs/?username=junaidaliruk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidaliruk&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -99,42 +108,43 @@ I enjoy creating:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=junaidaliruk&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-### 📊 Site Metrics
-Analytics dashboard for monitoring website performance.
-
-### 💼 Indeed Clone
-Modern job-search platform inspired by Indeed.
-
-### 🎮 Gaming Website
-Interactive gaming & esports website.
-
-### 🏋️ BeFit
-Fitness tracking application.
-
-### 🌐 3D Portfolio
-Immersive 3D website using modern web technologies.
-
-### 🛒 Tulos Ecommerce
-Complete ecommerce platform with authentication, cart and checkout.
-
-### 📄 PDF Editor
-Browser-based PDF editing application.
+| Project            | Description                                            |
+| ------------------ | ------------------------------------------------------ |
+| 📊 Site Metrics    | Analytics dashboard with charts and real-time insights |
+| 🌐 3D Portfolio    | Modern immersive portfolio experience                  |
+| 💼 Job Portal      | Indeed-inspired job platform                           |
+| 🛒 Tulos Ecommerce | Complete ecommerce solution                            |
+| 📄 PDF Editor      | Browser-based PDF toolkit                              |
+| 🏋️ BeFit          | Fitness tracking application                           |
+| 🎮 Gaming Website  | Interactive esports platform                           |
 
 ---
 
-# 💡 Currently Learning
+# 📚 Currently Exploring
 
-- AI Agents
-- Three.js
-- System Design
-- Cloud Deployment
-- Performance Optimization
+* AI Agents
+* MCP Servers
+* Three.js
+* Cloud Deployment
+* System Design
+* Docker
+* Kubernetes
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -143,26 +153,14 @@ Browser-based PDF editing application.
 </a>
 
 <a href="https://www.linkedin.com/in/junaid-ali-420932389">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-```javascript
-while(alive){
-    eat();
-    code();
-    learn();
-    build();
-    repeat();
-}
-```
-
----
+# 💭 Quote
 
 <p align="center">
 
@@ -172,8 +170,24 @@ while(alive){
 
 ---
 
+# ⚡ Fun Loop
+
+```javascript
+while (alive) {
+  eat();
+  code();
+  learn();
+  build();
+  improve();
+  repeat();
+}
+```
+
+---
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,100:7c3aed"/>
 
-</p>        make a fake with max benchmarks so i can review without acutal data
+</p>
+```
