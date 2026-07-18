@@ -1,54 +1,61 @@
 <h1 align="center">Hi 👋, I'm Junaid Ali</h1>
-<h3 align="center">A passionate developer building things on the web</h3>
+<h3 align="center">Full-Stack Software Developer · Karachi, Pakistan</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-2F80ED?style=for-the-badge" alt="Software Developer"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-2F80ED?style=for-the-badge" alt="Open Source Enthusiast"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-2F80ED?style=for-the-badge" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/Independent%20Freelancer-2F80ED?style=for-the-badge" alt="Independent Freelancer"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-2F80ED?style=for-the-badge" alt="Full-Stack Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-50%2B-181717?style=flat-square&logo=github&logoColor=white" alt="repos"/>
-  <img src="https://img.shields.io/badge/Followers-20%2B-181717?style=flat-square&logo=github&logoColor=white" alt="followers"/>
+  <a href="mailto:junaidruk526@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/junaid-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🚀 About Me
+## 🚀 Profile
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about web development, JavaScript/TypeScript, and backend systems
-- 📫 Reach me on the links below
-- ⚡ Fun fact: I love turning ideas into working code
+Independent full-stack developer working across the JavaScript ecosystem — from responsive front-end interfaces to REST APIs and database-backed services. Comfortable owning a project end-to-end as a freelancer: gathering requirements, building, and shipping directly with clients.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🛠️ Tech Stack
+## 💼 Experience
+
+**Full-Stack Software Developer** — *Independent Freelancer*
+`Present`
+
+- Design, build, and deploy full-stack web applications for clients using React, Next.js, Node.js, Express.js, and MongoDB
+- Develop responsive, accessible user interfaces following modern HTML/CSS and JavaScript best practices
+- Build and integrate RESTful APIs connecting front-end applications to backend services and databases
+- Own the full project lifecycle independently — client communication, planning, development, testing, and delivery
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🛠️ Skills
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Languages**
+**Frontend**
 - JavaScript
-- TypeScript
-
-</td>
-<td valign="top" width="33%">
-
-**Frameworks & Tools**
 - React
-- Node.js
-- Git / GitHub
+- Next.js
+- HTML5
+- CSS3
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-**Databases**
+**Backend**
+- Node.js
+- Express.js
 - MongoDB
-- MySQL
-- PostgreSQL
 
 </td>
 </tr>
@@ -56,59 +63,73 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 📊 Snapshot
+## 📌 Projects
 
-| | |
+### 🌐 Site Metrics
+Web app for tracking and visualizing website performance and analytics data.
+[Live](#) · [GitHub](#)
+
+### 💼 Indeed Clone
+Job-listing platform replicating core Indeed functionality — search, filters, and listings UI.
+[Live](#) · [GitHub](#)
+
+### 🎮 Gaming Website
+Responsive gaming/e-sports themed website with dynamic, interactive UI components.
+[Live](#) · [GitHub](#)
+
+### 💪 BeFit
+Fitness-focused web application for tracking workouts and health goals.
+[Live](#) · [GitHub](#)
+
+### 🧊 3D Website
+Interactive front-end showcase built with 3D visuals and modern animation techniques.
+[Live](#) · [GitHub](#)
+
+### 🛒 Tulos E-commerce
+Full-stack e-commerce platform with product catalog, cart, and checkout flow.
+[Live](#) · [GitHub](#)
+
+### 📄 PDF Editor
+Browser-based tool for viewing and editing PDF documents.
+[Live](#) · [GitHub](#)
+
+> Replace the `#` placeholders above with your actual Live and GitHub links for each project.
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🗣️ Languages
+
+| Language | Level |
 |---|---|
-| 🧑‍💻 **Role** | Software Developer |
-| 📍 **Focus** | Web Development · JavaScript/TypeScript · Backend Systems |
-| 🏆 **Repos** | 50+ |
-| 👥 **Followers** | 20+ |
-| 🌱 **Currently Learning** | _add here_ |
-| 💼 **Open To** | _add here — e.g. freelance, full-time, collab_ |
-
-> Update this table by hand whenever your numbers change — no external service required.
+| English | Fluent |
+| Urdu | Native |
+| Sindhi | Native |
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 📌 Pinned Projects
-
-### [Project Name 1](https://github.com/junaidaliruk/REPO_NAME_1)
-Short one-line description of what this project does and why it matters.
-`Tech: React · Node.js · MongoDB`
-
-### [Project Name 2](https://github.com/junaidaliruk/REPO_NAME_2)
-Short one-line description of what this project does and why it matters.
-`Tech: TypeScript · Express · PostgreSQL`
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌐 Connect With Me
+## 📫 Contact
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:junaidruk526@gmail.com">
+    <img src="https://img.shields.io/badge/Email-junaidruk526%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <br/>
+  <a href="https://linkedin.com/in/junaid-ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-junaid--ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Phone-0329--2876526-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
