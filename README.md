@@ -104,7 +104,6 @@ Full-stack e-commerce platform with product catalog, cart, and checkout flow.
 Browser-based tool for viewing and editing PDF documents.
 [Live](#) · [GitHub](#)
 
-> Replace the `#` placeholders above with your actual Live and GitHub links for each project.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
