@@ -1,78 +1,67 @@
-# 🌌 Premium GitHub Profile README
-
 ````md
+<!-- ========================================================= -->
 <!-- Banner -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:06b6d4,100:7c3aed&text=Junaid%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:06b6d4,100:7c3aed&text=Junaid%20Ali&fontSize=52&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Junaid Ali</h1>
+<h1 align="center">Hi 👋 I'm Junaid Ali</h1>
+
+<h3 align="center">
+Full-Stack Software Developer • React • Next.js • Node.js • TypeScript
+</h3>
 
 <p align="center">
-Full-Stack Software Developer • React • Next.js • TypeScript • Node.js
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+JavaScript+Developer;Open+Source+Enthusiast;AI+%26+Developer+Tools;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;AI+Powered+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-```ts
-const junaid = {
-  location: "Karachi, Pakistan 🇵🇰",
-  role: "Full-Stack Software Developer",
+💻 Independent Full-Stack Developer from **Karachi, Pakistan 🇵🇰**
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
+I enjoy building
 
-  backend: [
-    "Node.js",
-    "Express",
-    "PostgreSQL",
-    "MongoDB",
-    "Prisma"
-  ],
-
-  currentlyLearning: [
-    "AI Agents",
-    "Three.js",
-    "System Design",
-    "Cloud Infrastructure"
-  ],
-
-  hobbies: [
-    "Building SaaS",
-    "Open Source",
-    "UI Design",
-    "Performance Optimization"
-  ]
-}
-````
+- ⚡ High Performance Applications
+- 🎨 Beautiful User Interfaces
+- 🌐 REST APIs
+- 🤖 AI Applications
+- 📊 Dashboards
+- 📄 SaaS Platforms
+- 🎮 Interactive Experiences
 
 ---
 
 # 🛠 Tech Stack
 
+## Frontend
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,mongodb,postgres,prisma,git,github,vercel,vscode,figma,docker"/>
+## Backend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
+</p>
+
+## Dev Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,figma,npm"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://YOUR-STATS.vercel.app/api?username=junaidaliruk&theme=tokyonight&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true"/>
+<img width="49%" src="https://YOUR-STATS.vercel.app/api?username=junaidaliruk&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=junaidaliruk&theme=tokyonight&hide_border=true"/>
 
@@ -88,7 +77,7 @@ const junaid = {
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -108,43 +97,32 @@ const junaid = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=junaidaliruk&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
-| Project            | Description                                            |
-| ------------------ | ------------------------------------------------------ |
-| 📊 Site Metrics    | Analytics dashboard with charts and real-time insights |
-| 🌐 3D Portfolio    | Modern immersive portfolio experience                  |
-| 💼 Job Portal      | Indeed-inspired job platform                           |
-| 🛒 Tulos Ecommerce | Complete ecommerce solution                            |
-| 📄 PDF Editor      | Browser-based PDF toolkit                              |
-| 🏋️ BeFit          | Fitness tracking application                           |
-| 🎮 Gaming Website  | Interactive esports platform                           |
+| Project | Description |
+|----------|-------------|
+| 📊 Site Metrics | Analytics Dashboard |
+| 💼 Indeed Clone | Job Search Platform |
+| 🎮 Gaming Website | Interactive Gaming Platform |
+| 🏋️ BeFit | Fitness Tracking App |
+| 🌐 3D Portfolio | Modern Portfolio |
+| 🛒 Tulos Ecommerce | Ecommerce Platform |
+| 📄 PDF Editor | Browser PDF Toolkit |
 
 ---
 
-# 📚 Currently Exploring
+# 💡 Currently Learning
 
-* AI Agents
-* MCP Servers
-* Three.js
-* Cloud Deployment
-* System Design
-* Docker
-* Kubernetes
+- AI Agents
+- Three.js
+- Cloud Infrastructure
+- System Design
+- Kubernetes
+- Performance Optimization
 
 ---
 
-# 🌐 Connect
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -160,34 +138,28 @@ const junaid = {
 
 ---
 
-# 💭 Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Loop
+# ⚡ Fun Fact
 
 ```javascript
 while (alive) {
-  eat();
-  code();
-  learn();
-  build();
-  improve();
-  repeat();
+    eat();
+    code();
+    build();
+    learn();
+    improve();
+    repeat();
 }
 ```
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,100:7c3aed"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,100:7c3aed"/>
+</p>
+````
