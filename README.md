@@ -1,89 +1,85 @@
-<!-- Animated Header -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=Hi%20👋,%20I'm%20Junaid&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20•%20AI%20Enthusiast%20•%20TypeScript&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:06b6d4,100:7c3aed&text=Junaid%20Ali&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=60"/>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js;TypeScript+Lover;Building+Modern+Web+Apps;Always+Learning+Something+New" />
-</p>
+<h1 align="center">Hi 👋 I'm Junaid Ali</h1>
+
+<h3 align="center">
+Full-Stack Software Developer • JavaScript Ecosystem • React • Next.js • Node.js
+</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  </a>
-
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-```ts
-const junaid = {
-    location: "Pakistan 🇵🇰",
-    role: "Full-Stack Developer",
-    languages: ["TypeScript", "JavaScript"],
-    frontend: [
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "Three.js"
-    ],
-    backend: [
-        "Node.js",
-        "Express",
-        "Prisma",
-        "PostgreSQL"
-    ],
-    interests: [
-        "AI",
-        "3D Web",
-        "Performance",
-        "UI/UX"
-    ],
-    currentlyLearning: [
-        "AI Agents",
-        "Cloud",
-        "System Design"
-    ]
-}
-```
+💻 Independent Full-Stack Developer from Karachi, Pakistan 🇵🇰
+
+I specialize in building modern web applications using the JavaScript ecosystem.
+
+I enjoy creating:
+
+- ⚡ Fast web apps
+- 🎨 Beautiful UI/UX
+- 🌐 REST APIs
+- 📊 Analytics dashboards
+- 🤖 AI-powered tools
+- 🎮 Interactive websites
+- 📄 SaaS products
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,tailwind,prisma,postgres,mongodb,firebase,docker,git,github,vscode,figma,vercel,cloudflare"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -103,21 +99,38 @@ const junaid = {
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 Portfolio | Personal portfolio website | Next.js |
-| 🤖 AI Tool | AI-powered application | OpenAI |
-| 🎮 Gaming Platform | Modern gaming UI | React |
-| 📄 PDF SaaS | AI PDF summarizer | Next.js |
-| 🛒 Ecommerce | Full-stack ecommerce | PostgreSQL |
+### 📊 Site Metrics
+Analytics dashboard for monitoring website performance.
+
+### 💼 Indeed Clone
+Modern job-search platform inspired by Indeed.
+
+### 🎮 Gaming Website
+Interactive gaming & esports website.
+
+### 🏋️ BeFit
+Fitness tracking application.
+
+### 🌐 3D Portfolio
+Immersive 3D website using modern web technologies.
+
+### 🛒 Tulos Ecommerce
+Complete ecommerce platform with authentication, cart and checkout.
+
+### 📄 PDF Editor
+Browser-based PDF editing application.
 
 ---
 
-# 📊 Coding Activity
+# 💡 Currently Learning
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+- AI Agents
+- Three.js
+- System Design
+- Cloud Deployment
+- Performance Optimization
 
 ---
 
@@ -125,35 +138,35 @@ const junaid = {
 
 <p align="center">
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+<a href="mailto:junaidruk526@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/junaid-ali">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-# ☕ Support
+# ⚡ Fun Fact
+
+```javascript
+while(alive){
+    eat();
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+---
 
 <p align="center">
 
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
-
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=☕&slug=YOUR_USERNAME&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"/>
-
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -161,6 +174,6 @@ const junaid = {
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:8b5cf6,100:0ea5e9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,100:7c3aed"/>
 
 </p>
