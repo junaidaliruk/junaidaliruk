@@ -10,7 +10,7 @@
   <a href="mailto:junaidruk526@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/junaid-ali" target="_blank">
+  <a href="https://www.linkedin.com/in/junaid-ali-420932389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -125,7 +125,7 @@ Browser-based tool for viewing and editing PDF documents.
     <img src="https://img.shields.io/badge/Email-junaidruk526%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
-  <a href="https://linkedin.com/in/junaid-ali" target="_blank">
+  <a href="https://www.linkedin.com/in/junaid-ali-420932389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-junaid--ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/>
