@@ -20,7 +20,7 @@
 
 ## 🚀 Profile
 
-Independent full-stack developer working across the JavaScript ecosystem — from responsive front-end interfaces to REST APIs and database-backed services. Comfortable owning a project end-to-end as a freelancer: gathering requirements, building, and shipping directly with clients.
+Independent Full-stack developer working across the JavaScript ecosystem — from responsive front-end interfaces to REST APIs and database-backed services. Comfortable owning a project end-to-end as a freelancer: gathering requirements, building, and shipping directly with clients.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
