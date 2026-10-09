@@ -133,6 +133,23 @@ Browser-based tool for viewing and editing PDF documents.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junaidaliruk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidaliruk&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidaliruk&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junaidaliruk&theme=onedark&column=7&row=1&margin-w=8&margin-h=8" alt="Achievements"/>
+</p>
+
 <p align="center">
   <i>⭐ From <a href="https://github.com/junaidaliruk">junaidaliruk</a> — thanks for stopping by!</i>
 </p>
